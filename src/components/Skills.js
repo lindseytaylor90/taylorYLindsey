@@ -27,15 +27,14 @@ class Skills extends Component {
                                 <ul>
                                     <li>macOS</li>
                                     <li>Win 10</li>
-                                    <li>Linux</li>
                                 </ul>
                             </div>
-                            <div class="coloumn">
+                            <div class="column">
                                 <h2 class="subtitle">General</h2>
                                 <ul>
-                                    <li>.NetCore</li>
                                     <li>Node.js</li>
-                                    <li>Raect</li>
+                                    <li>React</li>
+                                    <li>React-native</li>
                                     <li>Git</li>
                                     <li>VS Code</li>
                                 </ul>

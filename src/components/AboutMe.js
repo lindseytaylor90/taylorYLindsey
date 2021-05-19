@@ -31,7 +31,7 @@ class AboutMe extends Component {
 
                             </div>
                             <div class="column" id="personal">
-                                <h3>Hobbie of mine:</h3>
+                                <h3>Hobbies of mine:</h3>
                                 <br />
                                 <ul>
                                     <li> Biking and Rafting</li><br/>
