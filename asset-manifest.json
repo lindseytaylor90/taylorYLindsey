@@ -1,25 +1,31 @@
 {
   "files": {
     "main.css": "/taylorYLindsey/static/css/main.f743b2e8.chunk.css",
-    "main.js": "/taylorYLindsey/static/js/main.e72ccb35.chunk.js",
-    "main.js.map": "/taylorYLindsey/static/js/main.e72ccb35.chunk.js.map",
+    "main.js": "/taylorYLindsey/static/js/main.69305bc7.chunk.js",
+    "main.js.map": "/taylorYLindsey/static/js/main.69305bc7.chunk.js.map",
     "runtime-main.js": "/taylorYLindsey/static/js/runtime-main.8ebaaf2a.js",
     "runtime-main.js.map": "/taylorYLindsey/static/js/runtime-main.8ebaaf2a.js.map",
-    "static/js/2.2ffb1966.chunk.js": "/taylorYLindsey/static/js/2.2ffb1966.chunk.js",
-    "static/js/2.2ffb1966.chunk.js.map": "/taylorYLindsey/static/js/2.2ffb1966.chunk.js.map",
+    "static/js/2.9b7479de.chunk.js": "/taylorYLindsey/static/js/2.9b7479de.chunk.js",
+    "static/js/2.9b7479de.chunk.js.map": "/taylorYLindsey/static/js/2.9b7479de.chunk.js.map",
     "index.html": "/taylorYLindsey/index.html",
-    "precache-manifest.2804f000a103fad10bac5e2d2151b6f3.js": "/taylorYLindsey/precache-manifest.2804f000a103fad10bac5e2d2151b6f3.js",
+    "precache-manifest.82fbe578696a95c2b3f67cce0c68f35e.js": "/taylorYLindsey/precache-manifest.82fbe578696a95c2b3f67cce0c68f35e.js",
     "service-worker.js": "/taylorYLindsey/service-worker.js",
     "static/css/main.f743b2e8.chunk.css.map": "/taylorYLindsey/static/css/main.f743b2e8.chunk.css.map",
-    "static/js/2.2ffb1966.chunk.js.LICENSE.txt": "/taylorYLindsey/static/js/2.2ffb1966.chunk.js.LICENSE.txt",
+    "static/js/2.9b7479de.chunk.js.LICENSE.txt": "/taylorYLindsey/static/js/2.9b7479de.chunk.js.LICENSE.txt",
     "static/media/GithubLogo.png": "/taylorYLindsey/static/media/GithubLogo.9ce68bca.png",
     "static/media/LinkedinLogo.png": "/taylorYLindsey/static/media/LinkedinLogo.f08c524d.png",
-    "static/media/name-logo.png": "/taylorYLindsey/static/media/name-logo.8518910e.png"
+    "static/media/jsonserverHeroku.png": "/taylorYLindsey/static/media/jsonserverHeroku.65360522.png",
+    "static/media/murderbookBootstrap.png": "/taylorYLindsey/static/media/murderbookBootstrap.af725c66.png",
+    "static/media/murderbookReact.png": "/taylorYLindsey/static/media/murderbookReact.d9c9888a.png",
+    "static/media/murderbookReactnative.png": "/taylorYLindsey/static/media/murderbookReactnative.5ff487c1.png",
+    "static/media/name-logo.png": "/taylorYLindsey/static/media/name-logo.8518910e.png",
+    "static/media/nucampsiteBootstrap.png": "/taylorYLindsey/static/media/nucampsiteBootstrap.2d4fd692.png",
+    "static/media/nucampsiteReact.png": "/taylorYLindsey/static/media/nucampsiteReact.a464a6b9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8ebaaf2a.js",
-    "static/js/2.2ffb1966.chunk.js",
+    "static/js/2.9b7479de.chunk.js",
     "static/css/main.f743b2e8.chunk.css",
-    "static/js/main.e72ccb35.chunk.js"
+    "static/js/main.69305bc7.chunk.js"
   ]
 }
