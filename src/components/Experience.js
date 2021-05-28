@@ -17,12 +17,13 @@ class Experience extends Component {
                                   <div class="content">
                                      <artical class="media">
                                       <p>
-                                          <strong>Job Title goes here</strong> <medium>Company name goes here</medium><br />
-                                          <small>September 2019- Present</small><br />
+                                          <strong>Office Coordinator</strong> <medium>Bozeman Health</medium><br />
+                                          <small>April 2020- Present</small><br />
                                           <ul>
-                                            <li>responsibility one</li>
-                                            <li>responsibility two</li>
-                                            <li>responsibility three</li>
+                                            <li>Billing and Data Entry</li>
+                                            <li>Scheduling Appointments </li>
+                                            <li>Smooth Operation of Healthcare Facility </li>
+                                            <li>Managing Patient Information</li>
                                           </ul>
                                       </p>
                                      </artical> 

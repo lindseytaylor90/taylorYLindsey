@@ -13,13 +13,26 @@ class Education extends Component {
                          <div class="column is three-quaters" id="edu1">
                              <h1 class="title">Education</h1>
                              <ColoredLine />
-                             <h2 class="subtitle">Name of school goes here</h2>
-                             <div class="columns is-centered">
-                                <p> Optional: name of specialty <span class="blullet"></span>Name of degree goes here</p>
+                             <div style={{ marginBottom: "100px" }}>
+                                <h2 class="subtitle"> Inter Mountain Medical Educator INC </h2>
+                                <div class="columns is-centered">
+                                    <p> EMT Certification <span class="blullet"></span></p>
+                                </div>
+                                <div class="columns is-centered">
+                                    <p>Issued: April of 2021</p>
+                                    
+                                </div>
                              </div>
-                             <div class="columns is-centered">
-                                <p>Graduated: may of 2017</p>
-                                 
+                             
+                             <div>
+                                <h2 class="subtitle">Amarillo College</h2>
+                                <div class="columns is-centered">
+                                    <p> Phlebotomy Certification <span class="blullet"></span></p>
+                                </div>
+                                <div class="columns is-centered">
+                                    <p>Issued: August of 2016</p>
+                                    
+                                </div>
                              </div>
                          </div>
 

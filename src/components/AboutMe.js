@@ -35,10 +35,10 @@ class AboutMe extends Component {
                                 <br />
                                 <ul>
                                     <li> Biking and Rafting</li><br/>
-                                    <li> fishing and gardening</li><br/>
-                                    <li> traveling and joplin</li><br/>
-                                    <li> reading and crafting</li><br/>
-                                    <li> climbing and camping</li><br/>
+                                    <li> Fishing and Gardening</li><br/>
+                                    <li> Traveling </li><br/>
+                                    <li> Reading and Rrafting</li><br/>
+                                    <li> Climbing and Camping</li><br/>
                                 </ul>
                            </div>
                         </div>

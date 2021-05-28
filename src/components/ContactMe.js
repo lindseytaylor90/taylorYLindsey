@@ -24,24 +24,24 @@ class ContactMe extends Component {
                                         >
                                         </img>
                                     </span>
-                                    Currently: Montana 
+                                    Currently: Colorado 
                                 </li>
                                 <li>Email: tylindsey90@gmail.com</li>
-                                <li>Cell: your cell number goes here</li>
+                                <li></li>
                              </ul>
                              <div class="columns is-centered">
                                  <div class="column is-one-third">
                                    <div class="columns is-mobile is-centered" id="social-links">
                                        <div class="column" id="githubLink">
                                           <figure class="image is-64x64">
-                                            <a href="" class="image">
+                                            <a href="https://github.com/lindseytaylor90" class="image">
                                             <img src={GithubLogo} alt="" class="responsive"></img>
                                             </a>
                                           </figure>
                                        </div>
                                        <div class="column" id="linkedinlink">
                                           <figure class="image is-64x64">
-                                            <a href="" class="image">
+                                            <a href="https://linkedin.com/in/taylorylindsey90" class="image">
                                             <img src={linkedinlogo} alt="" class="responsive"></img>
                                             </a>
                                           </figure>
