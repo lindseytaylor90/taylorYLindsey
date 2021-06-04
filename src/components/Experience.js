@@ -33,12 +33,12 @@ class Experience extends Component {
                                   <div class="content">
                                      <artical class="media">
                                       <p>
-                                          <strong>Job Title goes here</strong> <medium>Company name goes here</medium><br />
-                                          <small>September 2019- Present</small><br />
+                                          <strong>Hostest</strong> <medium>Uley's</medium><br />
+                                          <small>November 2018- April 2019</small><br />
                                           <ul>
-                                            <li>responsibility one</li>
-                                            <li>responsibility two</li>
-                                            <li>responsibility three</li>
+                                            <li>Escort Customers to and from the Restarunt location </li>
+                                            <li>Hospotality responsibiliies like serveing Customers food and beverages</li>
+                                            <li>Worked Banquest, wedding, school events, ect</li>
                                           </ul>
                                       </p>
                                      </artical> 
@@ -48,12 +48,12 @@ class Experience extends Component {
                                   <div class="content">
                                      <artical class="media">
                                       <p>
-                                          <strong>Job Title goes here</strong> <medium>Company name goes here</medium><br />
-                                          <small>September 2019- Present</small><br />
+                                          <strong>Registration</strong> <medium>Dr. Moores Orthopedics Office</medium><br />
+                                          <small>November 2018- April 2019</small><br />
                                           <ul>
-                                            <li>responsibility one</li>
-                                            <li>responsibility two</li>
-                                            <li>responsibility three</li>
+                                            <li>Scheduling Appointments</li>
+                                            <li>Managing Patient Information</li>
+                                            <li>Plebotomy Duties</li>
                                           </ul>
                                       </p>
                                      </artical> 
@@ -63,12 +63,12 @@ class Experience extends Component {
                                   <div class="content">
                                      <artical class="media">
                                       <p>
-                                          <strong>Job Title goes here</strong> <medium>Company name goes here</medium><br />
-                                          <small>September 2019- Present</small><br />
+                                          <strong>Phlebotomist</strong> <medium>Gunnison Valley Hospital</medium><br />
+                                          <small> April 2019- November 2019</small><br />
                                           <ul>
-                                            <li>responsibility one</li>
-                                            <li>responsibility two</li>
-                                            <li>responsibility three</li>
+                                            <li>Phlebotomist for inpatient and outpatients</li>
+                                            <li>Logged Patient Informaion</li>
+                                            <li>Packaged and shipped collected specimens</li>
                                           </ul>
                                       </p>
                                      </artical> 
@@ -78,12 +78,12 @@ class Experience extends Component {
                                   <div class="content">
                                      <artical class="media">
                                       <p>
-                                          <strong>Job Title goes here</strong> <medium>Company name goes here</medium><br />
-                                          <small>September 2019- Present</small><br />
+                                          <strong>Bartender and Waiter</strong> <medium>Slogar Bar and Restaurant</medium><br />
+                                          <small>November 2017- November 2018</small><br />
                                           <ul>
-                                            <li>responsibility one</li>
-                                            <li>responsibility two</li>
-                                            <li>responsibility three</li>
+                                            <li>Full knowledge of bar and menu items</li>
+                                            <li>Delivered quality food and bevrages</li>
+                                            <li>Served mixed drinks, wine, beer and nonalcoholic beverages</li>
                                           </ul>
                                       </p>
                                      </artical> 

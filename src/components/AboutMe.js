@@ -20,13 +20,21 @@ class AboutMe extends Component {
                             </div>
                             <div class="column" id="Intro">
                                 <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-                                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
-                                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in 
-                                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-                                Excepteur sint occaecat cupidatat non proident, 
-                                sunt in culpa qui officia deserunt mollit anim id est laborum.   
+                                 Hello, My name is Taylor Lindsey.
+                                 I'm curently persuing a carrer in entry 
+                                 level front end development. 
+                                 In Summer of 2020 I decided to purse a 
+                                 carrer in computre sience. I 
+                                 enrolled in the NuCamp online course. 
+                                 And completed xyz. My experience 
+                                 includes but is not limited to frontend 
+                                 development, working with React 
+                                 native mobile apps, React single page 
+                                 application and basic HTML web using 
+                                 Bootstarp. Additional experinece in Json Server 
+                                 and Ajaxs calls. I enjoy the constant learning, 
+                                 challanges and skills that computer science
+                                 has to offer. 
                                 </p>
 
                             </div>
@@ -34,11 +42,12 @@ class AboutMe extends Component {
                                 <h3>Hobbies of mine:</h3>
                                 <br />
                                 <ul>
-                                    <li> Biking and Rafting</li><br/>
-                                    <li> Fishing and Gardening</li><br/>
+                                    <li> Biking</li><br/>
+                                    <li> Rafting </li><br/>
+                                    <li> Gardening</li><br/>
                                     <li> Traveling </li><br/>
-                                    <li> Reading and Rrafting</li><br/>
-                                    <li> Climbing and Camping</li><br/>
+                                    <li> Reading</li><br/>
+                                    <li> Camping</li><br/>
                                 </ul>
                            </div>
                         </div>
