@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/taylorYLindsey/static/css/main.f743b2e8.chunk.css",
-    "main.js": "/taylorYLindsey/static/js/main.81b93381.chunk.js",
-    "main.js.map": "/taylorYLindsey/static/js/main.81b93381.chunk.js.map",
+    "main.js": "/taylorYLindsey/static/js/main.aa52e730.chunk.js",
+    "main.js.map": "/taylorYLindsey/static/js/main.aa52e730.chunk.js.map",
     "runtime-main.js": "/taylorYLindsey/static/js/runtime-main.8ebaaf2a.js",
     "runtime-main.js.map": "/taylorYLindsey/static/js/runtime-main.8ebaaf2a.js.map",
-    "static/js/2.9b7479de.chunk.js": "/taylorYLindsey/static/js/2.9b7479de.chunk.js",
-    "static/js/2.9b7479de.chunk.js.map": "/taylorYLindsey/static/js/2.9b7479de.chunk.js.map",
+    "static/js/2.fe583ba1.chunk.js": "/taylorYLindsey/static/js/2.fe583ba1.chunk.js",
+    "static/js/2.fe583ba1.chunk.js.map": "/taylorYLindsey/static/js/2.fe583ba1.chunk.js.map",
     "index.html": "/taylorYLindsey/index.html",
-    "precache-manifest.1df57ffba5e41dd2ea538ca535c3da98.js": "/taylorYLindsey/precache-manifest.1df57ffba5e41dd2ea538ca535c3da98.js",
+    "precache-manifest.ad91912bfbd91617afe9634441c532d4.js": "/taylorYLindsey/precache-manifest.ad91912bfbd91617afe9634441c532d4.js",
     "service-worker.js": "/taylorYLindsey/service-worker.js",
     "static/css/main.f743b2e8.chunk.css.map": "/taylorYLindsey/static/css/main.f743b2e8.chunk.css.map",
-    "static/js/2.9b7479de.chunk.js.LICENSE.txt": "/taylorYLindsey/static/js/2.9b7479de.chunk.js.LICENSE.txt",
+    "static/js/2.fe583ba1.chunk.js.LICENSE.txt": "/taylorYLindsey/static/js/2.fe583ba1.chunk.js.LICENSE.txt",
     "static/media/GithubLogo.png": "/taylorYLindsey/static/media/GithubLogo.9ce68bca.png",
     "static/media/LinkedinLogo.png": "/taylorYLindsey/static/media/LinkedinLogo.f08c524d.png",
+    "static/media/jop.jpg": "/taylorYLindsey/static/media/jop.856779c6.jpg",
     "static/media/jsonserverHeroku.png": "/taylorYLindsey/static/media/jsonserverHeroku.65360522.png",
     "static/media/murderbookBootstrap.png": "/taylorYLindsey/static/media/murderbookBootstrap.af725c66.png",
     "static/media/murderbookReact.png": "/taylorYLindsey/static/media/murderbookReact.d9c9888a.png",
@@ -24,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8ebaaf2a.js",
-    "static/js/2.9b7479de.chunk.js",
+    "static/js/2.fe583ba1.chunk.js",
     "static/css/main.f743b2e8.chunk.css",
-    "static/js/main.81b93381.chunk.js"
+    "static/js/main.aa52e730.chunk.js"
   ]
 }

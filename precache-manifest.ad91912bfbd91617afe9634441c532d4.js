@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c5b7d4ae42fcd2828b497c471638cfe",
+    "revision": "ff16d30f6c8e8ea84b3c0ce5a88f03cc",
     "url": "/taylorYLindsey/index.html"
   },
   {
-    "revision": "54ed44f83864d33a4077",
+    "revision": "3e413f8ab0e52e29ca50",
     "url": "/taylorYLindsey/static/css/main.f743b2e8.chunk.css"
   },
   {
-    "revision": "bd996a2c1365bca3ea49",
-    "url": "/taylorYLindsey/static/js/2.9b7479de.chunk.js"
+    "revision": "7dd67927f3b6f35bc154",
+    "url": "/taylorYLindsey/static/js/2.fe583ba1.chunk.js"
   },
   {
     "revision": "570d362d673dab785e62d2b8563e1118",
-    "url": "/taylorYLindsey/static/js/2.9b7479de.chunk.js.LICENSE.txt"
+    "url": "/taylorYLindsey/static/js/2.fe583ba1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "54ed44f83864d33a4077",
-    "url": "/taylorYLindsey/static/js/main.81b93381.chunk.js"
+    "revision": "3e413f8ab0e52e29ca50",
+    "url": "/taylorYLindsey/static/js/main.aa52e730.chunk.js"
   },
   {
     "revision": "5e91cb80183521d19cd8",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f08c524d147f46398cb54013ee7013ee",
     "url": "/taylorYLindsey/static/media/LinkedinLogo.f08c524d.png"
+  },
+  {
+    "revision": "856779c6511d7b1b30487cf1e568a7c9",
+    "url": "/taylorYLindsey/static/media/jop.856779c6.jpg"
   },
   {
     "revision": "65360522a5d3d6c42b35a39ddfa25aa6",
