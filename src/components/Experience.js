@@ -36,9 +36,9 @@ class Experience extends Component {
                                           <strong>Hostest</strong> <medium>Uley's</medium><br />
                                           <small>November 2018- April 2019</small><br />
                                           <ul>
-                                            <li>Escort Customers to and from the Restarunt location </li>
-                                            <li>Hospotality responsibiliies like serveing Customers food and beverages</li>
-                                            <li>Worked Banquest, wedding, school events, ect</li>
+                                            <li>Escort Customers to and from the Restaurant location </li>
+                                            <li>Hospitality responsibilities like serving Customers food and beverages</li>
+                                            <li>Worked Banquets, weddings, school events, etc.</li>
                                           </ul>
                                       </p>
                                      </artical> 
@@ -82,8 +82,8 @@ class Experience extends Component {
                                           <small>November 2017- November 2018</small><br />
                                           <ul>
                                             <li>Full knowledge of bar and menu items</li>
-                                            <li>Delivered quality food and bevrages</li>
-                                            <li>Served mixed drinks, wine, beer and nonalcoholic beverages</li>
+                                            <li>Delivered quality food and beverages</li>
+                                            <li>Served mixed drinks, wine and beer</li>
                                           </ul>
                                       </p>
                                      </artical> 

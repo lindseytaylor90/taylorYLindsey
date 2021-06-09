@@ -44,9 +44,8 @@ class Skills extends Component {
                                 <ul>
                                     <li>REST</li>
                                     <li>JSON</li>
-                                    <li>JWT</li>
-                                    <li>Swagger</li>
-                                    <li>Postman</li>
+                                    <li>Ajax</li>
+                                    <li>Heroku</li>
                                 </ul>
                             </div>
                          </div>

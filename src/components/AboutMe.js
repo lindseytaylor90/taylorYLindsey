@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-//import ProfilePic from '../images/profilepic.jpg';
 import ColoredLine from'./ColoredLine';
+import ProfilePic from '../images/jop.jpg';
+
 class AboutMe extends Component {
     render () {
         return(
@@ -11,9 +12,10 @@ class AboutMe extends Component {
                         <div class="column is-three-quarters">
                             <h2 class="title">About Me</h2>
                             <ColoredLine />
-                            <div class="colimns is-8 is-three-quarters">
-                                <figure class="image is-1byl">
-                                    <img  src="" alt=""/>
+                            <div class="columns is-8 is-three-quarters">
+                                <figure class="image is-4by4" 
+                                    style={{ marginRight: "auto", marginLeft: "auto", maxWidth: "220px" }}>
+                                    <img  src={ProfilePic} alt=""/>
 
                                 </figure>
 
@@ -23,17 +25,18 @@ class AboutMe extends Component {
                                  Hello, My name is Taylor Lindsey.
                                  I'm curently persuing a carrer in entry 
                                  level front end development. 
-                                 In Summer of 2020 I decided to purse a 
-                                 carrer in computre sience. I 
-                                 enrolled in the NuCamp online course. 
-                                 And completed xyz. My experience 
-                                 includes but is not limited to frontend 
-                                 development, working with React 
+                                 In the Summer of 2020 I decided to purse a 
+                                 carrer in computer science. I
+                                 enrolled in the NuCamp online course
+                                 and completed the following courses; Bootstrap-HTML, React  
+                                 and React Native. My experience 
+                                 includes but is not limited to front end 
+                                 development, React 
                                  native mobile apps, React single page 
-                                 application and basic HTML web using 
-                                 Bootstarp. Additional experinece in Json Server 
-                                 and Ajaxs calls. I enjoy the constant learning, 
-                                 challanges and skills that computer science
+                                 applications and basic HTML web development using 
+                                 Bootstrap. Additional experinece in JSON Server 
+                                 and Ajax calls. I enjoy the constant learning, 
+                                 challenges and problem solving opportunities that computer science
                                  has to offer. 
                                 </p>
 
