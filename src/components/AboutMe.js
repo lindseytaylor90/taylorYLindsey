@@ -22,22 +22,7 @@ class AboutMe extends Component {
                             </div>
                             <div class="column" id="Intro">
                                 <p>
-                                 Hello, My name is Taylor Lindsey.
-                                 I'm curently persuing a carrer in entry 
-                                 level front end development. 
-                                 In the Summer of 2020 I decided to purse a 
-                                 carrer in computer science. I
-                                 enrolled in the NuCamp online course
-                                 and completed the following courses; Bootstrap-HTML, React  
-                                 and React Native. My experience 
-                                 includes but is not limited to front end 
-                                 development, React 
-                                 native mobile apps, React single page 
-                                 applications and basic HTML web development using 
-                                 Bootstrap. Additional experinece in JSON Server 
-                                 and Ajax calls. I enjoy the constant learning, 
-                                 challenges and problem solving opportunities that computer science
-                                 has to offer. 
+                                Hello, My name is Taylor Lindsey. I'm currently pursuing a career in entry level front end development. In the Summer of 2020 I decided to pursue a career in computer science. I enrolled in the NuCamp online course and completed the following courses; Bootstrap-HTML, React and React Native. My experience includes but is not limited to front end development, React native mobile apps, React single page applications and basic HTML web development using Bootstrap. Additional experience in JSON Server and Ajax calls. I enjoy the constant learning, challenges and problem solving opportunities that computer science has to offer.
                                 </p>
 
                             </div>
